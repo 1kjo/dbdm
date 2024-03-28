@@ -23,6 +23,7 @@
                 pandas
                 pip
                 scikit-learn
+                seaborn
               ]))
             ];
           };
